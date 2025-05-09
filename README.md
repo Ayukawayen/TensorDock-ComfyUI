@@ -175,3 +175,11 @@
 
 個人作法為使用FileZilla的SFTP下載檔案，多張圖片壓縮為單一檔案後下載，需要在FileZilla載入SSH私鑰檔案，內容在此不詳述。
 下載上傳大檔案時可以先卸下GPU，節省金錢。 (自行衡量檔案大小)
+
+## (使用Google Compute Engine的GPU)
+
+之前Google平台上很難拿到GPU，目前狀況未測試。
+如果有300美金額度想嘗試看看的，也可以使用Google的Ubuntu VM，我的經驗是高記憶體最低等級的n1-highmem-2就可以跑得起來。
+
+![](https://github.com/Ayukawayen/TensorDock-ComfyUI/blob/main/images/image_49.png?raw=true)
+
