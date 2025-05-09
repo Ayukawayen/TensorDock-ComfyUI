@@ -169,7 +169,9 @@
 
 ![](https://github.com/Ayukawayen/TensorDock-ComfyUI/blob/main/images/image_45.png?raw=true)
 
+下次要使用時，由左側的My Servers進入VM管理頁面，在Start VM後用同樣方式操作。
 
 ## (使用FileZilla下載圖片)
 
 個人作法為使用FileZilla的SFTP下載檔案，多張圖片壓縮為單一檔案後下載，需要在FileZilla載入SSH私鑰檔案，內容在此不詳述。
+下載上傳大檔案時可以先卸下GPU，節省金錢。 (自行衡量檔案大小)
