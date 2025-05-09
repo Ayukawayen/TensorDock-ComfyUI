@@ -5,6 +5,9 @@
 
 TensorDock租用之儲存空間在待機時仍會產生費用，請注意。 (GPU和RAM在停機時一般而言不會收費，請參閱TensorDock說明)
 
+ComfyUI可以在其他網路平台先試用。
+
+
 ## 登入TensorDock
 進入 TensorDock首頁 (https://tensordock.com/)
 
