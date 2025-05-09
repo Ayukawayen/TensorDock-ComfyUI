@@ -1,5 +1,7 @@
 # TensorDock-ComfyUI
 在TensorDock上租用GPU架設ComfyUI
+本篇未盡之處請自行參閱TensorDock、ComfyUI等說明文件。
+TensorDock租用之儲存空間在待機時仍會產生費用，請注意。 (通常而言，GPU和RAM停機時不會收費，請參閱TensorDock說明)
 
 ## 登入TensorDock
 進入 TensorDock首頁 (https://tensordock.com/)
