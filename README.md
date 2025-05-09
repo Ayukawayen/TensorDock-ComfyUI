@@ -214,7 +214,7 @@ ComfyUI可以在其他網路平台先試用。
 
 ## (使用Google Compute Engine的GPU)
 
-之前Google平台上很難拿到GPU，目前狀況未測試。
+之前Google平台上很難拿到GPU，目前狀況未測試。不過開GPU虛擬機器要先手動申請。
 
 如果有300美金額度想嘗試看看的，也可以使用Google的Ubuntu VM，我的經驗是高記憶體最低等級的n1-highmem-2就可以跑得起來。
 
