@@ -12,7 +12,7 @@
 ![](https://github.com/Ayukawayen/TensorDock-ComfyUI/blob/main/images/image_2.png?raw=true)
 
 
-## 設定SSH Key，這個只要做一次(產生SSH Key的方式省略)
+## 設定SSH Key 這個只要做一次(產生SSH Key的方式省略)
 
 點 "Secret"；然後點 "Add Secret"
 
@@ -23,7 +23,7 @@
 ![](https://github.com/Ayukawayen/TensorDock-ComfyUI/blob/main/images/image_2.2.png?raw=true)
 
 
-## 儲值(省略)
+## 儲值美金 (省略)
 
 點左側主選單的 "Billing" 然後照畫面指示操作，使用信用卡付款，一次最低加值5美金。
 
