@@ -86,7 +86,7 @@ ComfyUI可以在其他網路平台先試用。
 
 ## 啟動虛擬機器
 
-此處使用TensorDock內建終端介面，使用Putty或其他SSH軟體者可自行使用。
+此處使用TensorDock內建終端介面，使用Putty或其他SSH軟體者可自行使用SSH連線。
 
 點 "Start VM"
 
