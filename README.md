@@ -17,7 +17,10 @@ TensorDock租用之儲存空間在待機時仍會產生費用，請注意。 (GP
 ![](https://github.com/Ayukawayen/TensorDock-ComfyUI/blob/main/images/image_2.png?raw=true)
 
 
-## 設定SSH Key 這只需要做一次
+## 設定SSH Key
+
+(只需要做一次)
+
 產生SSH Key的方式省略
 
 若不自行產生SSH Key，那麼Value輸入一個空白也行，不影響基本功能。
