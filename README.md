@@ -12,7 +12,9 @@
 ![](https://github.com/Ayukawayen/TensorDock-ComfyUI/blob/main/images/image_2.png?raw=true)
 
 
-## 設定SSH Key 這個只要做一次(產生SSH Key的方式省略)
+## 設定SSH Key 這只需要做一次
+產生SSH Key的方式省略
+若不自行產生SSH Key，那麼Value輸入一個空白也行，不影響基本功能。
 
 點 "Secret"；然後點 "Add Secret"
 
@@ -30,7 +32,7 @@
 
 ## 部署一台有GPU的虛擬機器
 
-完成後點 "Deploy GPU" 進入選擇頁面，我通常就選最便宜的，點擊該顯卡的方格
+點 "Deploy GPU" 進入選擇頁面，我通常就選最便宜的，點擊該顯卡的方格
 
 ![](https://github.com/Ayukawayen/TensorDock-ComfyUI/blob/main/images/image_3.png?raw=true)
 
